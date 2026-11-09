@@ -6,5 +6,5 @@ Main page
 ![MainPage](https://github.com/Harvey-Stardew/LMaS-HackClub-Website/blob/main/MainPagePlan.png?raw=true)
 ![MainPageScroll](https://github.com/Harvey-Stardew/LMaS-HackClub-Website/blob/main/MainPagePlanScroll.png?raw=true)
 Members page
-![Members](main/MembersPagePlan)
+![Members](MembersPagePlan)
 
